@@ -1,0 +1,17 @@
+body{
+	 background-color: pink;
+}
+.container{
+	border: 1px solid red;
+	border-radius: 30px;
+	background-color: skyblue;
+}
+#h4{
+	color: yellow;
+}
+#table1{
+	background-color: white;
+}
+div.alert{
+	border-radius: 20px;
+}

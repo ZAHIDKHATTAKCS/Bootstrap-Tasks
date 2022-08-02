@@ -1,0 +1,27 @@
+#heading1{
+	text-align: center;
+}
+#col1{
+	border:solid black;
+	padding: 30px;
+	text-align: justify;
+}
+#col2{
+	border: solid black;
+	padding: 20px;
+	text-align: justify;
+}
+#row3{
+	border:solid black;
+}
+#row4{
+	border: solid black;
+}
+#btn1{
+	color: black;
+	background-color: yellow;
+}
+#btn1:hover{
+	background-color: lightyellow;
+
+}

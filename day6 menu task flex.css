@@ -1,0 +1,32 @@
+body{
+	background-image: url(foodimg.jpg);
+	background-size: cover;
+}
+nav{
+	color: white;
+}
+nav ul li{
+	display: inline;
+	font-size: 30px;
+	padding: 20px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+nav ul li a:hover{
+	color: red;
+	text-decoration: none;
+}
+#row2{
+	color: white;
+	width: 1000px;
+	background-color: transparent;
+	text-align: justify;
+}
+#heading1{
+	font-family: clarendon Blk BT;
+}
+#paragraph1{
+	font-size: 20px;
+}
